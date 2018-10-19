@@ -1,0 +1,32 @@
+[09-Oct-2018 19:59:14 America/Denver] PHP Warning:  require_once(/home2/boostpr1/public_html/ctrtags/ctrtags/config.php): failed to open stream: No such file or directory in /home2/boostpr1/public_html/ctrtags/index.php on line 6
+[09-Oct-2018 19:59:14 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home2/boostpr1/public_html/ctrtags/ctrtags/config.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/boostpr1/public_html/ctrtags/index.php on line 6
+[09-Oct-2018 19:59:14 America/Denver] PHP Warning:  require_once(/home2/boostpr1/public_html/ctrtags/ctrtags/config.php): failed to open stream: No such file or directory in /home2/boostpr1/public_html/ctrtags/index.php on line 6
+[09-Oct-2018 19:59:14 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home2/boostpr1/public_html/ctrtags/ctrtags/config.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/boostpr1/public_html/ctrtags/index.php on line 6
+[09-Oct-2018 19:59:20 America/Denver] PHP Warning:  require_once(/home2/boostpr1/public_html/ctrtags/ctrtags/config.php): failed to open stream: No such file or directory in /home2/boostpr1/public_html/ctrtags/index.php on line 6
+[09-Oct-2018 19:59:20 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home2/boostpr1/public_html/ctrtags/ctrtags/config.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/boostpr1/public_html/ctrtags/index.php on line 6
+[09-Oct-2018 19:59:35 America/Denver] PHP Warning:  require_once(/home2/boostpr1/public_html/ctrtags/ctrtags/config.php): failed to open stream: No such file or directory in /home2/boostpr1/public_html/ctrtags/index.php on line 6
+[09-Oct-2018 19:59:35 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home2/boostpr1/public_html/ctrtags/ctrtags/config.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/boostpr1/public_html/ctrtags/index.php on line 6
+[09-Oct-2018 19:59:52 America/Denver] PHP Warning:  require_once(/home2/boostpr1/public_html/ctrtags/ctrtags/config.php): failed to open stream: No such file or directory in /home2/boostpr1/public_html/ctrtags/index.php on line 6
+[09-Oct-2018 19:59:52 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home2/boostpr1/public_html/ctrtags/ctrtags/config.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/boostpr1/public_html/ctrtags/index.php on line 6
+[09-Oct-2018 19:59:53 America/Denver] PHP Warning:  require_once(/home2/boostpr1/public_html/ctrtags/ctrtags/config.php): failed to open stream: No such file or directory in /home2/boostpr1/public_html/ctrtags/index.php on line 6
+[09-Oct-2018 19:59:53 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home2/boostpr1/public_html/ctrtags/ctrtags/config.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home2/boostpr1/public_html/ctrtags/index.php on line 6
+[09-Oct-2018 20:05:50 America/Denver] PHP Notice:  Undefined variable: name in /home2/boostpr1/public_html/ctrtags/inc/inc.navbar.php on line 198
+[09-Oct-2018 20:05:50 America/Denver] PHP Notice:  Undefined variable: lastname in /home2/boostpr1/public_html/ctrtags/inc/inc.navbar.php on line 198
+[09-Oct-2018 20:05:51 America/Denver] PHP Notice:  Undefined variable: name in /home2/boostpr1/public_html/ctrtags/inc/inc.navbar.php on line 198
+[09-Oct-2018 20:05:51 America/Denver] PHP Notice:  Undefined variable: lastname in /home2/boostpr1/public_html/ctrtags/inc/inc.navbar.php on line 198
+[09-Oct-2018 20:05:52 America/Denver] PHP Notice:  Undefined variable: name in /home2/boostpr1/public_html/ctrtags/inc/inc.navbar.php on line 198
+[09-Oct-2018 20:05:52 America/Denver] PHP Notice:  Undefined variable: lastname in /home2/boostpr1/public_html/ctrtags/inc/inc.navbar.php on line 198
+[09-Oct-2018 20:05:53 America/Denver] PHP Notice:  Undefined variable: name in /home2/boostpr1/public_html/ctrtags/inc/inc.navbar.php on line 198
+[09-Oct-2018 20:05:53 America/Denver] PHP Notice:  Undefined variable: lastname in /home2/boostpr1/public_html/ctrtags/inc/inc.navbar.php on line 198
+[09-Oct-2018 20:05:53 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/boostpr1/public_html/ctrtags/single.php on line 12
+[09-Oct-2018 20:05:53 America/Denver] PHP Notice:  Undefined variable: single_desc in /home2/boostpr1/public_html/ctrtags/single.php on line 39
+[09-Oct-2018 20:05:53 America/Denver] PHP Notice:  Undefined variable: single_keyw in /home2/boostpr1/public_html/ctrtags/single.php on line 40
+[09-Oct-2018 20:05:53 America/Denver] PHP Notice:  Undefined variable: single_title in /home2/boostpr1/public_html/ctrtags/single.php on line 46
+[09-Oct-2018 20:05:53 America/Denver] PHP Notice:  Undefined variable: name in /home2/boostpr1/public_html/ctrtags/inc/inc.navbar.php on line 198
+[09-Oct-2018 20:05:53 America/Denver] PHP Notice:  Undefined variable: lastname in /home2/boostpr1/public_html/ctrtags/inc/inc.navbar.php on line 198
+[09-Oct-2018 20:05:54 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/boostpr1/public_html/ctrtags/single.php on line 12
+[09-Oct-2018 20:05:54 America/Denver] PHP Notice:  Undefined variable: single_desc in /home2/boostpr1/public_html/ctrtags/single.php on line 39
+[09-Oct-2018 20:05:54 America/Denver] PHP Notice:  Undefined variable: single_keyw in /home2/boostpr1/public_html/ctrtags/single.php on line 40
+[09-Oct-2018 20:05:54 America/Denver] PHP Notice:  Undefined variable: single_title in /home2/boostpr1/public_html/ctrtags/single.php on line 46
+[09-Oct-2018 20:05:54 America/Denver] PHP Notice:  Undefined variable: name in /home2/boostpr1/public_html/ctrtags/inc/inc.navbar.php on line 198
+[09-Oct-2018 20:05:54 America/Denver] PHP Notice:  Undefined variable: lastname in /home2/boostpr1/public_html/ctrtags/inc/inc.navbar.php on line 198
